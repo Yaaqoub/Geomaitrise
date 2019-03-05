@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -109,7 +109,7 @@
 				};
 			};
 			buildConfigurationList = 2BEB523121FCE4200013C2BB /* Build configuration list for PBXProject "Geomaitrise" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 9.1";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
